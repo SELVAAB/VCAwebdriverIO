@@ -8,7 +8,7 @@ class LoginPage extends Page {
     /**
      * define selectors using getter methods
      */
-    public get inputUsername () {
+    public get inputUsername () { 
         return $('#fxb_1802c92d-1497-48c1-839d-a005c6775e32_Fields_5f485922-2852-4d75-8d8d-a16302980fd3__Value');
     }
 
